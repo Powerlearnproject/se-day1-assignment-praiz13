@@ -9,7 +9,7 @@ Software engineering is the systematic application of engineering approaches to 
 It is important in today's tech industry because software engineers design and develop games, websites, apps, network control systems and much more
 
 Identify and describe at least three key milestones in the evolution of software engineering.
- Milestones include the development of programming languages (e.g., Fortran, C), the establishment of software engineering as a discipline in the 1960s, the advent of structured programming in the 1970s.
+Milestones include the development of programming languages (e.g., Fortran, C), the establishment of software engineering as a discipline in the 1960s, the advent of structured programming in the 1970s.
 
 List and briefly explain the phases of the Software Development Life Cycle.
 Phases in the software Development Life Cycle are:
